@@ -1,6 +1,6 @@
-# KulBalam QA — IT38
+# KulBalam_QA_version
+# Social Network with Marketplace
 
-Starter-repo voor het testassessment van cohort IT38.
+This project is for the BackendAssessment v2.5 and newer
 
-De broncode staat op de develop-branch:
-    git checkout develop
+This is the system under test for the testing assessment. Assessment materials are provided separately by your instructor.
